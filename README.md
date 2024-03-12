@@ -1,2 +1,2 @@
-# dansho.ng
-a quick demo of latest angular
+# danshonest
+- recent angular + fastify + mikroorm
