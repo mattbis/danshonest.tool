@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "explainFiles": true,
+        "listEmittedFiles": true
+    }
+}

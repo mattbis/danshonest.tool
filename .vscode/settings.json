@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "autoload",
+        "danshonest",
+        "fastify",
+        "mikro",
+        "mikroorm",
+        "mklink",
+        "nestjs",
+        "primeng"
+    ],
+    "prettier.configPath": ".prettierrc",
+    "prettier.requireConfig": true
+}
